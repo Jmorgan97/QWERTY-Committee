@@ -8,7 +8,7 @@ User stories are sentences (in everyday language) from the point of view of the 
 
 ## Our User Stories:
 
-1. "As an ***xXxEpic_Gamer_GuyxXx***, I want a game that has a unique setting, and a captivating storyline."
+1. "As a gamer, I want a game that has a unique setting, and a captivating storyline."
 2. "As someone who likes video games with progression, I want a game that has meaningful rewards."
 3. "I've always wanted a game that incorporates my favorite aspects of games that I love."
 4. "As a casual gamer, I want a game that is captivating and fun minute-to-minute and makes me want to come back to play more."
