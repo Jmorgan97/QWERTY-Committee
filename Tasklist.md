@@ -15,12 +15,12 @@
 - validate playability/UX
 - test features and try to break them
 - create sound effects
+- validate programming/logical process
 ## Tom's Tasks
 - research graphics/rendering in simplistic/retro styles (polygonal, pixelated 3D a la PS1 era, Wrought Flesh, etc.)
 - research programming parallel/background processes (threading?)
 - validate data structures, objects, classes, properties, naming schemes, etc.
 - plan programming/logical flowcharts for features
-- validate programming/logical process
 - develop basic gameplay features/functionality (basic engine prototyping)
 - develop UX features (menus, UI, new game, load/continue, save, options, etc.)
-- - test features and try to break them
+- test features and try to break them
