@@ -10,8 +10,6 @@
 - Final tweaks (polish)
 - Deliverable game (proof of concept)
 
-Basically; figure out what we're doing -> plan accordingly -> set up necessary things in place -> make a basic platform to build off of -> start programming and implementing features and placeholder assets -> test along the way -> add bigger, less important, or higher level features -> add the real art assets to make it feel like a real game -> test test test -> fix it -> finish it
-
 ## Timeline:
 | Task # | Task Description | Assignee | Time Commitment|
 | --- | --- | --- | --- |
