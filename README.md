@@ -1,11 +1,13 @@
 # QWERTY Committee
-### *Team Members*: Aidan Sorensen, Jacob Morgan, Tom Myers
-### *Project Advisor*: Jillian Aurisano
+### Team Members: Aidan Sorensen, Jacob Morgan, Tom Myers
+### Project Advisor: Jillian Aurisano
     
-    Project Description
-    User Stories and Design Diagrams
-        User Stories
-        Design Diagrams: Level 0, Level 1 and Level 2 
+    
+#### Project Description/User Stories and Design Diagrams
+
+![Design Diagram 0](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
+
+ Design Diagrams: Level 0, Level 1 and Level 2 
         Description of the Diagrams: including conventions and a brief description of the purpose of each component.
     Project Tasks and Timeline
         Task List
