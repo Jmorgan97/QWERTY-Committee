@@ -7,20 +7,18 @@
 
 ![Design Diagram 0](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
 
- Design Diagrams: Level 0, Level 1 and Level 2 
-        Description of the Diagrams: including conventions and a brief description of the purpose of each component.
+ Design Diagrams: Level 0, Level 1 and Level 2. (needs Description of the Diagrams: including conventions and a brief description of the purpose of each component.)
+   
     Project Tasks and Timeline
         Task List
         Timeline
         Effort Matrix
-
-    PPT Slideshow (includes ABET Concerns)
     
-    Self-Assessment Essays
+Self-Assessment Essays
     
-    Professional Biographies
+Professional Biographies
     
-    Budget
+Budget
         expenses to date or statement that there have not been any.
         show monetary value of donated items and donation sources.
     Appendix
