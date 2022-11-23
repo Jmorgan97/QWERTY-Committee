@@ -1,8 +1,6 @@
-
-    Team names (include Advisor) and Project Abstract (limit of 400 ascii chars)
-    # QWERTY Committee
-    ### *Team Members*: Aidan Sorensen, Jacob Morgan, Tom Myers
-    ### *Project Advisor*: Jillian Aurisano
+# QWERTY Committee
+### *Team Members*: Aidan Sorensen, Jacob Morgan, Tom Myers
+### *Project Advisor*: Jillian Aurisano
     
     Project Description
     User Stories and Design Diagrams
