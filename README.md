@@ -23,9 +23,9 @@
 > #### [Google Slides](https://docs.google.com/presentation/d/1Xx1_OWpxD6OxUjy2hUfYSEC8ofBDaMeZ9h-QXvLufZo)
 > #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
 
-### [Self-Assessment Essays]()
+### [Self-Assessment Essays](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
 
-### [Professional Biographies]()
+### [Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
 
 ### Budget
 - Our budget for this game is $0. We have not currently spared any expenses towards the game and plan on using freely available or custom, self-made assets for the game. The computer hardware we currently each own individually should be adequate for developing the game. Unity is free, and we also plan on making the game free and easily shareable or accessible.
