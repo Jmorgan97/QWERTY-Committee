@@ -1,14 +1,15 @@
 # Project Arizona - Game Manual
 
 ## Table of Contents
-- ### 1. Info
-- ### 2. Controls
-- ### 3. Misc
+- ### [1. Info](#info)
+- ### [2. Controls](#controls)
+- ### [3. Gameplay](#gameplay)
+- ### [4. Miscellaneous](#misc)
 
-## 1. Info:
+## 1. Info: <a name="info"></a>
 Project Arizona is a third-person action adventure game created in the Unity game development engine by computer science students Jacob Morgan, Aidan Sorensen, and Thomas Myers at the University of Cincinnati for their senior design project. The game is free to download, install, and play in its limited demo form. Set in a fictional, modern day world in which the advancement of the world climate crisis effectively creates a post-apocalyptic wasteland in the American Southwest, the player character must gear up and explore the world, survive droughts and dust storms, fend off bandits, and help others survive the wastes as they learn how their decisions affect the world around them.
 
-## 2. Controls:
+## 2. Controls: <a name="controls"></a>
 - ### Mouse and Keyboard
 	- In-Game Pause Menu - [Escape]:(cannot be rebound)
 	- Camera Aim/Look - [Mouse Move]
@@ -41,5 +42,6 @@ Project Arizona is a third-person action adventure game created in the Unity gam
 	- Change Equipped Item(Previous/Next) - [Left Bumper/Right Bumper]
 	- More TBD...
 
-## 3. Misc:
-To be updated...
+## 3. Gameplay: <a name="gameplay"></a>
+
+## 4. Miscellaneous: <a name="misc"></a>
