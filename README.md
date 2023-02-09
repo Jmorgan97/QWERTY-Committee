@@ -3,8 +3,8 @@
 ### Project Advisor: Jillian Aurisano
 
 ### Quick Links:
-- #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Guide.md)
-- #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Game_Manual.md)
+- #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
+- #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
 - #### [Game Project Repository](https://github.com/Jmorgan97/Project-Arizona)
 
 ### Abstract:
