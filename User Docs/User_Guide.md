@@ -32,6 +32,7 @@ To play Project Arizona, you must have a computer running a 64-bit Windows opera
 -   **Storage:**  X GB available space
 
 ![](controller_icons.png)
+
 **Controller Support:** Check operating system or Unity engine support online prior to use
 - Microsoft Xbox (for Xbox 360, Xbox One/X, Xbox Series S/X, or Microsoft Windows) 
 - Sony PlayStation (SixAxis or Dualshock 3 for PS3, Dualshock 4 for PS4, or DualSense for PS5)
