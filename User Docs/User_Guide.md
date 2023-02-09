@@ -47,7 +47,7 @@ To install Project Arizona, head to the [dev team's GitHub repository](https://g
 <sub>**: Further materials may need to be installed such as drivers or libraries/runtime distributables for the game engine to work properly.</sub>
 
 ## 4. How to Use:
-Upon launching Project Arizona, from the start menu, you can start a New Game, Load a saved game, Continue (load) the most recent saved game, change or check your Settings, or Exit the game. To access settings during gameplay, press the ESC (Escape) key on your keyboard OR press the "Start" button on your controller***. For further information about gameplay or default control schema, refer to the [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee).
+Upon launching Project Arizona, from the start menu, you can start a New Game, Load a saved game, Continue (load) the most recent saved game, change or check your Settings, or Exit the game. To access settings during gameplay, press the ESC (Escape) key on your keyboard OR press the "Start" button on your controller***. For further information about gameplay or default control schema, refer to the [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md).
 
 <sub>***: Traditionally, video game controllers have two contextual option buttons near the center of the controller labeled "Select" (left of center) and "Start" (right of center). Today, these may be labeled "Options" on PlayStation controllers, "Menu" on Xbox controllers, or "+" (Plus) on Nintendo controllers.
 
