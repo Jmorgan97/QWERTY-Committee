@@ -22,15 +22,15 @@ To play Project Arizona, you must have a computer running a 64-bit Windows opera
 -   **Memory:**  3 GB RAM
 -   **Graphics:**  DirectX 9 compatible video card with at least 2 GB of VRAM
 -   **DirectX:**  Version 11
--   **Storage:**  X GB available space
+-   **Storage:**  (TBD) GB available space
 
 **Recommended System Requirements:**  Requires a 64-bit processor and operating system
 -   **OS:**  Windows 10/11
--   **Processor:**  Dual core AMD Ryzen 5 or Intel Core i5 6th Gen processor
+-   **Processor:**  Dual core AMD Ryzen 5 or Intel Core i5 6th Gen processor or higher equivalent
 -   **Memory:**  8 GB RAM 
 -   **Graphics:**  DirectX 11 compatible video card with at least 4 GB of VRAM
 -   **DirectX:**  Version 11
--   **Storage:**  X GB available space
+-   **Storage:**  (TBD) GB available space
 
 ![](controller_icons.png)
 
