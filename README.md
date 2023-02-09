@@ -4,7 +4,7 @@
 
 ### Quick Links:
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Guide.md)
-- #### [Game Manual]()
+- #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Game_Manual.md)
 - #### [Game Project Repository](https://github.com/Jmorgan97/Project-Arizona)
 
 ### Abstract:
