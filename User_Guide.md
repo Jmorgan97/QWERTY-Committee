@@ -33,7 +33,7 @@ To play Project Arizona, you must have a computer running a 64-bit Windows opera
 
 **Controller Support:** Check operating system or Unity engine support online prior to use
 - Microsoft Xbox (for Xbox 360, Xbox One/X, Xbox Series S/X, or Microsoft Windows) 
-- Sony Playstation (SixAxis or Dualshock 3 for PS3, Dualshock 4 for PS4, or DualSense for PS5)
+- Sony PlayStation (SixAxis or Dualshock 3 for PS3, Dualshock 4 for PS4, or DualSense for PS5)
 - Nintendo Switch Pro Controller
 - Logitech gamepads
 - Other common Windows-supported gamepads utilizing XInput API
@@ -47,7 +47,7 @@ To install Project Arizona, head to the [dev team's GitHub repository](https://g
 ## 4. How to Use:
 Upon launching Project Arizona, from the start menu, you can start a New Game, Load a saved game, Continue (load) the most recent saved game, change or check your Settings, or Exit the game. To access settings during gameplay, press the ESC (Escape) key on your keyboard OR press the "Start" button on your controller***. For further information about gameplay or default control schema, refer to the [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee).
 
-<sub>***: Traditionally, video game controllers have two contextual option buttons near the center of the controller labeled "Select" (left of center) and "Start" (right of center). Today, these may be labeled "Options" on Playstation controllers, "Menu" on Xbox controllers, or "+" (Plus) on Nintendo controllers.
+<sub>***: Traditionally, video game controllers have two contextual option buttons near the center of the controller labeled "Select" (left of center) and "Start" (right of center). Today, these may be labeled "Options" on PlayStation controllers, "Menu" on Xbox controllers, or "+" (Plus) on Nintendo controllers.
 
 ## 5. Contact Us:
 If you have further questions about Project Arizona, have trouble accessing/installing/playing the game, have run into a bug or error, or just want to see what we're up to, head over to our [GitHub repository](https://github.com/Jmorgan97/QWERTY-Committee) for contact information*.
