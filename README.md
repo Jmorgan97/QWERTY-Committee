@@ -1,4 +1,4 @@
-# Team "QWERTY Committee"
+# Team "QWERTY Committee" - [Project Arizona](https://github.com/Jmorgan97/Project-Arizona)
 ### Team Members: Aidan Sorensen, Jacob Morgan, Tom Myers
 ### Project Advisor: Jillian Aurisano
 ### Abstract:
