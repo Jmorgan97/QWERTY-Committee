@@ -1,6 +1,12 @@
 # Team "QWERTY Committee" - [Project Arizona](https://github.com/Jmorgan97/Project-Arizona)
 ### Team Members: Aidan Sorensen, Jacob Morgan, Tom Myers
 ### Project Advisor: Jillian Aurisano
+
+### Quick Links:
+- #### [User Guide}(https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Guide.md)
+- #### [Game Manual]()
+- #### [Game Project Repository](https://github.com/Jmorgan97/Project-Arizona)
+
 ### Abstract:
 > We plan to develop a Unity game to showcase the skills we’ve learned throughout our time here at UC as CS majors, engineers, and software designers. Set in the post-apocalyptic American west, the game features exploration, looting, resource management, crafting, farming, and other typical modern action game mechanics utilizing our understandings of data structures, PC architecture, graphics, software testing/QA, and other technical disciplines.
 
