@@ -26,7 +26,7 @@
 ### [Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
 
 ### Slideshow
-> #### [Google Slides](https://docs.google.com/presentation/d/1Xx1_OWpxD6OxUjy2hUfYSEC8ofBDaMeZ9h-QXvLufZo)
+> #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
 > #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
 
 ### [Self-Assessment Essays](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
