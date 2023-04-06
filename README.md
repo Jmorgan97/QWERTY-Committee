@@ -48,20 +48,20 @@
 - Made in Unity 2021.3.10f1 and built off of Unity's own "Starter Assets - Third Person Character Controller" project template and asset store pack
 
 - Unity Asset Store Packages Used:
-	-- "Effect textures and prefabs" by Magicpot Inc.
-	-- "Ez Tornado" by Elix Inc.
-	-- "Free Low Poly Desert Pack" by 23 Space Robots and Counting...
-	"Hats pack..." by Unity Technologies Inc.
-	"Hit Impact Effects FREE" by Travis Game Assets
-	"Low Poly Cars, Cliff Pack, and Road Pack" by Broken Vector
-	"Low Poly Crates" by PULSAR BYTES
-	"Low Poly Environment Pack" by k0rveen
-	"Low Poly FPS Weapons Lite" by JustCreate
-	"Machete01" by Nikolay Fedorov
-	"Simple Cars Pack" by MyxerMan
-	"Simple Street Props" by 	AiKodex
-	"Survival Kit Lite" by Rowntec Assets
-	"War FX" by Jean Moreno
+	- "Effect textures and prefabs" by Magicpot Inc.
+	- "Ez Tornado" by Elix Inc.
+	- "Free Low Poly Desert Pack" by 23 Space Robots and Counting...
+	- "Hats pack..." by Unity Technologies Inc.
+	- "Hit Impact Effects FREE" by Travis Game Assets
+	- "Low Poly Cars, Cliff Pack, and Road Pack" by Broken Vector
+	- "Low Poly Crates" by PULSAR BYTES
+	- "Low Poly Environment Pack" by k0rveen
+	- "Low Poly FPS Weapons Lite" by JustCreate
+	- "Machete01" by Nikolay Fedorov
+	- "Simple Cars Pack" by MyxerMan
+	- "Simple Street Props" by 	AiKodex
+	- "Survival Kit Lite" by Rowntec Assets
+	- "War FX" by Jean Moreno
 
 - And various animations from Mixamo (Adobe)
 
