@@ -43,14 +43,14 @@
 ### Credits
 - Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
-Placeholder Sound Effects from Valve's Counter-Strike: Source and Half-Life 2 or other common Source engine game assets.
+- Placeholder Sound Effects from Valve's Counter-Strike: Source and Half-Life 2 or other common Source engine game assets.
 
-Made in Unity 2021.3.10f1 and built off of Unity's own "Starter Assets - Third Person Character Controller" project template and asset store pack
+- Made in Unity 2021.3.10f1 and built off of Unity's own "Starter Assets - Third Person Character Controller" project template and asset store pack
 
-Unity Asset Store Packages Used:
-	"Effect textures and prefabs" by Magicpot Inc.
-	"Ez Tornado" by Elix Inc.
-	"Free Low Poly Desert Pack" by 23 Space Robots and Counting...
+- Unity Asset Store Packages Used:
+	-- "Effect textures and prefabs" by Magicpot Inc.
+	-- "Ez Tornado" by Elix Inc.
+	-- "Free Low Poly Desert Pack" by 23 Space Robots and Counting...
 	"Hats pack..." by Unity Technologies Inc.
 	"Hit Impact Effects FREE" by Travis Game Assets
 	"Low Poly Cars, Cliff Pack, and Road Pack" by Broken Vector
@@ -63,6 +63,6 @@ Unity Asset Store Packages Used:
 	"Survival Kit Lite" by Rowntec Assets
 	"War FX" by Jean Moreno
 
-And various animations from Mixamo (Adobe)
+- And various animations from Mixamo (Adobe)
 
-Inspired by the great folks behind games like Fallout: New Vegas, Minecraft, Stardew Valley, The Last of Us, Valheim, Outer Wilds, Disco Elysium, and too many more to name.
+- Inspired by the great folks behind games like Fallout: New Vegas, Minecraft, Stardew Valley, The Last of Us, Valheim, Outer Wilds, Disco Elysium, and too many more to name.
