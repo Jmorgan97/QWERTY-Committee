@@ -62,6 +62,7 @@
 	- "Simple Street Props" by 	AiKodex
 	- "Survival Kit Lite" by Rowntec Assets
 	- "War FX" by Jean Moreno
+	- "Military target" by NikiYani
 
 - And various animations from Mixamo (Adobe)
 
