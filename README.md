@@ -5,7 +5,8 @@
 ### Quick Links:
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
 - #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
-- #### ["Project Arizona" Game Repository](https://github.com/Jmorgan97/Project-Arizona)
+- #### ["Project Arizona" Game Link (Google Drive download)](https://drive.google.com/drive/folders/1saYWJ75qpd3Hc11MAecrOlUImRgxWKvo?usp=sharing)
+	- ##### The game had individual files too big for a GitHub repo, so we've opted to store the unzipped build in Google Drive for downloading, about 280MB tops.
 
 ### Abstract:
 > We plan to develop a Unity game to showcase the skills we’ve learned throughout our time here at UC as CS majors, engineers, and software designers. Set in the post-apocalyptic American west, the game features exploration, looting, resource management, crafting, farming, and other typical modern action game mechanics utilizing our understandings of data structures, PC architecture, graphics, software testing/QA, and other technical disciplines.
