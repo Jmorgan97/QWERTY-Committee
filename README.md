@@ -2,7 +2,9 @@
 ### Team Members: Aidan Sorensen, Jacob Morgan, Tom Myers
 ### Project Advisor: Jillian Aurisano
 
+
 ### Quick Links:
+- #### [Latest Release](https://github.com/Jmogran97/QWERTY-Committee/releases/latest)
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
 - #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
 - #### ["Project Arizona" Game Link (Google Drive download)](https://drive.google.com/drive/folders/1saYWJ75qpd3Hc11MAecrOlUImRgxWKvo?usp=sharing)
