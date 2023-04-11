@@ -29,7 +29,7 @@ Project Arizona is a third-person action adventure game created in the Unity gam
 	- Switch to Machete - [3]
 	- Switch to Holstered - [4]
 
-![](KBMLayout.png)
+![Layout](KBMLayout.png)
 
 ## 3. Gameplay: <a name="gameplay"></a>
 The game can be played once it has been downloaded from the GitHub repository. See the main page https://github.com/Jmorgan97/QWERTY-Committee for more info.
