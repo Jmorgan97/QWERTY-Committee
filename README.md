@@ -47,24 +47,20 @@
 ![Poster](PosterJPG.jpg)
 
 ### 7. Assessments
-
-#### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
-#### 7.2. [Final Self-Assessments]()
+	#### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
+	#### 7.2. [Final Self-Assessments]()
 
 ### 10. Appendix
-
-- We've met once a week with our advisor most weeks during the first semester and met at least 30-60 minutes a week as a team to work on project assignments together on top of our individual work as well as plan for the project. Individually, we've began watching and completing Unity tutorials and learnings to prepare ourselves to develop better and get prepared to create the game for the second semester. 
-
 - ### Initial Project Tasks and Timeline
-> #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
-> #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
+	- #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
+	- #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
 
 - ### [Initial Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
 
 - ### Initial Budget:
 > #### "Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders."
 
-- #### [Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
+- ### [Initial Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
 
 ### 11. Credits
 - Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
