@@ -72,48 +72,43 @@
 ### 8. Summary of Hours and Justification: <a name="hours"></a>
 
 ### 9. Summary of Expenses: <a name="expenses"></a>
-> ##### We spent $0 in developing this game as Unity is a free game development engine, we used freely available community or public assets, and we did not release our game for an official, published release for profit. The game was developed on our own personal computers with Unity, Visual Studio, Photoshop, and Audacity. For the expo, we did spend money on supplies for our booth, including $8 for hand sanitizer, $25 for a Logitech MK235 mouse and keyboard combo, and $10 on mousepads, for a total of roughly $47 after tax. We additionally brought our laptops, cables, power/adapters, peripherals, and monitors to best present our work at the expo.
+> We spent $0 in developing this game as Unity is a free game development engine, we used freely available community or public assets, and we did not release our game for an official, published release for profit. The game was developed on our own personal computers with Unity, Visual Studio, Photoshop, and Audacity. For the expo, we did spend money on supplies for our booth, including $8 for hand sanitizer, $25 for a Logitech MK235 mouse and keyboard combo, and $10 on mousepads, for a total of roughly $47 after tax. We additionally brought our laptops, cables, power/adapters, peripherals, and monitors to best present our work at the expo.
 
-### 10. Appendix (outdated submission and other info): <a name="appendix"></a>
-- ### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
+### 10. Appendix (outdated assignment submissions and other info): <a name="appendix"></a>
+- #### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
 > #### [Initial Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
 > > #### [Description](/Design_Diagrams//Design_Diagrams.md)
 
-- ### Initial Project Tasks and Timeline
+- #### Initial Project Tasks and Timeline
 	- #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
 	- #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
 
-- ### [Initial Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
+- #### [Initial Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
 
-- ### Initial Budget:
-> #### "Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders."
+- #### Initial Budget:
+> ##### "Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders."
 
-- ### [Initial Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
+- #### [Initial Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
 
 ### 11. Credits
-- Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
-
-- Placeholder Sound Effects from Valve's Counter-Strike: Source and Half-Life 2 or other common Source engine game assets.
-
-- Made in Unity 2021.3.10f1 and built off of Unity's own "Starter Assets - Third Person Character Controller" project template and asset store pack
-
-- Unity Asset Store Packages Used:
-	- "Effect textures and prefabs" by Magicpot Inc.
-	- "Ez Tornado" by Elix Inc.
-	- "Free Low Poly Desert Pack" by 23 Space Robots and Counting...
-	- "Hats pack..." by Unity Technologies Inc.
-	- "Hit Impact Effects FREE" by Travis Game Assets
-	- "Low Poly Cars, Cliff Pack, and Road Pack" by Broken Vector
-	- "Low Poly Crates" by PULSAR BYTES
-	- "Low Poly Environment Pack" by k0rveen
-	- "Low Poly FPS Weapons Lite" by JustCreate
-	- "Machete01" by Nikolay Fedorov
-	- "Simple Cars Pack" by MyxerMan
-	- "Simple Street Props" by 	AiKodex
-	- "Survival Kit Lite" by Rowntec Assets
-	- "War FX" by Jean Moreno
-	- "Military target" by NikiYani
-
-- And various animations from Mixamo (Adobe)
-
-- Inspired by the great folks behind games like Fallout: New Vegas, Minecraft, Stardew Valley, The Last of Us, Valheim, Outer Wilds, Disco Elysium, and too many more to name.
+- #### Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
+- #### Placeholder Sound Effects from Valve's Counter-Strike: Source and Half-Life 2 or other common Source engine game assets.
+- #### Made in Unity 2021.3.10f1 and built off of Unity's own "Starter Assets - Third Person Character Controller" project template and asset store pack
+- #### Unity Asset Store Packages Used:
+	- ##### "Effect textures and prefabs" by Magicpot Inc.
+	- ##### "Ez Tornado" by Elix Inc.
+	- ##### "Free Low Poly Desert Pack" by 23 Space Robots and Counting...
+	- ##### "Hats pack..." by Unity Technologies Inc.
+	- ##### "Hit Impact Effects FREE" by Travis Game Assets
+	- ##### "Low Poly Cars, Cliff Pack, and Road Pack" by Broken Vector
+	- ##### "Low Poly Crates" by PULSAR BYTES
+	- ##### "Low Poly Environment Pack" by k0rveen
+	- ##### "Low Poly FPS Weapons Lite" by JustCreate
+	- ##### "Machete01" by Nikolay Fedorov
+	- ##### "Simple Cars Pack" by MyxerMan
+	- ##### "Simple Street Props" by AiKodex
+	- ##### "Survival Kit Lite" by Rowntec Assets
+	- ##### "War FX" by Jean Moreno
+	- ##### "Military target" by NikiYani
+- #### And various animations from Mixamo (Adobe)
+- #### Inspired by the great folks behind games like Fallout: New Vegas, Minecraft, Stardew Valley, The Last of Us, Valheim, Outer Wilds, Disco Elysium, and too many more to name.
