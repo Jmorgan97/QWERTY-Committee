@@ -30,12 +30,22 @@
 > "Project Arizona" is a Unity game showcasing the skills we’ve learned from our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game that we developed to display our understandings of data structures, computer architecture, graphics, software testing/QA, and other technical disciplines.
 
 ### 1.(cont.) "Project Arizona" Description: <a name="description"></a>
-> Tentatively titled, Project Arizona is an idea for a 3D action adventure game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and get a feel for what a more complete, broader scope game might offer through a typical demo or trial version of those games.
+> Project Arizona started as an idea for a 3D action/adventure/survival game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic character controller functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and see what a more complete, broader scope game might offer through a typical demo or trial version of those games.
 
-### 2. User Stories and Design Diagrams <a name="ui"></a>
-> #### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
-> #### [Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
-> > #### [Description](/Design_Diagrams//Design_Diagrams.md)
+### 2. User Interface Specification <a name="ui"></a>
+- #### UI/App Flowchart (basic navigation of game and proc. gen. apps):
+![UI](UIFlow.png)
+
+- #### Screenshots:
+> ##### Main Menu Scene
+![Game1](GameScreen1.jpg)
+
+> ##### Game Scenes
+![Game2](GameScreen2.png)
+![Game3](GameScreen3.png)
+
+> ##### Procedural Generation Scene
+![Proc](ProcGenScreen.jpg)
 
 ### 3. Test Plan and Results <a name="test"></a>
 
@@ -43,21 +53,24 @@
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
 - #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
 
-
 ### 5. Slideshow <a name="slides"></a>
-> #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
-> #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
+- #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
+- #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
 
-### 6. Final Expo Poster
+### 6. Final Expo Poster <a name="poster"></a>
 > ##### Our final expo poster pdf would not fit on GitHub, but the full-size, high-def PDF was submitted on Canvas. It can be found [here](https://drive.google.com/file/d/1r0XumtdIQbPm8yNdU5a7aUzjilrL8ScD/view?usp=sharing) on Google Drive. It is presented here as a JPG:
 
 ![Poster](PosterJPG.jpg)
 
-### 7. Assessments
+### 7. Assessments <a name="assessments"></a>
 - #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
 - #### 7.2. [Final Self-Assessments]()
 
-### 10. Appendix
+### 10. Appendix <a name="appendix"></a>
+- ### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
+> #### [Initial Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
+> > #### [Description](/Design_Diagrams//Design_Diagrams.md)
+
 - ### Initial Project Tasks and Timeline
 	- #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
 	- #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
