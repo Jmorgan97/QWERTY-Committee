@@ -1,5 +1,5 @@
-# Team "QWERTY Committee":
-###$ Team Members: Aidan Sorensen, Jacob Morgan, Thomas Myers | Faculty Project Advisor: Jillian Aurisano
+# Team "QWERTY Committee" Presents "Project Arizona":
+#### Team Members: Aidan Sorensen, Jacob Morgan, Thomas Myers | Faculty Project Advisor: Jillian Aurisano
 
 ## Quick Links:
 - #### [Latest Release](https://github.com/Jmorgan97/QWERTY-Committee/releases/latest)
@@ -10,26 +10,26 @@
 - #### [The Procedural Generation portion of the project](https://github.com/Myers747/Project-Arizona-Procedural-Generation)
 
 ## Table of Contents:
-- #### 1. Project Description
-- #### 2. User Interface Specification
-- #### 3. Test Plan and Results
-- #### 4. User Manual
-- #### 5. Spring Final Slideshow Presentation
-- #### 6. Final Expo Poster
-- #### 7. Assessments
-	- ##### 7.1. Initial Self-Assessments (fall)
-	- ##### 7.2. Final Self-Assessments (spring)
-- #### 8. Summary of Hours and Justification
-- #### 9. Summary of Expenses
-- #### 10. Appendix
+- #### 1. [Project Abstract](#abstract) and [Description](#description)
+- #### 2. [User Interface Specification](#ui)
+- #### 3. [Test Plan and Results](#test)
+- #### 4. [User Manual](#manual)
+- #### 5. [Spring Final Slideshow Presentation](#slides)
+- #### 6. [Final Expo Poster](#poster)
+- #### 7. [Assessments](#assessments)
+	- ##### 7.1. [Initial Self-Assessments (fall)](#fall)
+	- ##### 7.2. [Final Self-Assessments (spring)](#spring)
+- #### 8. [Summary of Hours and Justification](#hours)
+- #### 9. [Summary of Expenses](#expenses)
+- #### 10. [Appendix](#appendix)
 
-### Abstract:
+### 1. Abstract: <a name="abstract"></a>
 > "Project Arizona" is a Unity game showcasing the skills we’ve learned from our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game that we developed to display our understandings of data structures, computer architecture, graphics, software testing/QA, and other technical disciplines.
 
-### "Project Arizona":
+### "Project Arizona" Description: <a name="description"></a>
 > Tentatively titled, Project Arizona is an idea for a 3D action adventure game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and get a feel for what a more complete, broader scope game might offer through a typical demo or trial version of those games.
 
-### User Stories and Design Diagrams
+### 2. User Stories and Design Diagrams <a name="ui"></a>
 > #### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
 > #### [Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
 > > #### [Description](/Design_Diagrams//Design_Diagrams.md)
