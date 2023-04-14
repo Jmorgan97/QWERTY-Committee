@@ -38,14 +38,14 @@
 
 - #### Screenshots:
 > ##### Main Menu Scene
-![Game1](GameScreen1.jpg)
+![Game1](screenshots/GameScreen1.jpg)
 
 > ##### Game Scenes
-![Game2](GameScreen2.png)
-![Game3](GameScreen3.png)
+![Game2](screenshots/GameScreen2.png)
+![Game3](screenshots/GameScreen3.png)
 
 > ##### Procedural Generation Scene
-![Proc](ProcGenScreen.jpg)
+![Proc](screenshots/ProcGenScreen.jpg)
 
 ### 3. Test Plan and Results <a name="test"></a>
 
