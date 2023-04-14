@@ -15,7 +15,7 @@
 - #### 1. [Project Abstract](#abstract) and [Description](#description)
 - #### 2. [User Interface Specification](#ui)
 - #### 3. [Test Plan and Results](#test)
-- #### 4. [User Manual](#manual)
+- #### 4. [User Guide and Game Manual](#manual)
 - #### 5. [Spring Final Slideshow Presentation](#slides)
 - #### 6. [Final Expo Poster](#poster)
 - #### 7. [Assessments](#assessments)
@@ -37,7 +37,14 @@
 > #### [Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
 > > #### [Description](/Design_Diagrams//Design_Diagrams.md)
 
-### 5. Slideshow
+### 3. Test Plan and Results <a name="test"></a>
+
+### 4. User Guide and Game Manual
+- #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
+- #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
+
+
+### 5. Slideshow <a name="slides"></a>
 > #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
 > #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
 
@@ -47,8 +54,8 @@
 ![Poster](PosterJPG.jpg)
 
 ### 7. Assessments
-	#### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
-	#### 7.2. [Final Self-Assessments]()
+- #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
+- #### 7.2. [Final Self-Assessments]()
 
 ### 10. Appendix
 - ### Initial Project Tasks and Timeline
