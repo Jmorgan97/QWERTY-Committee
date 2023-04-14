@@ -1,4 +1,4 @@
-# Team "QWERTY Committee" Presents "Project Arizona":
+# Team "QWERTY Committee" CS5002 Final Design Report for "Project Arizona":
 #### Team Members: Aidan Sorensen, Jacob Morgan, Thomas Myers | Faculty Project Advisor: Jillian Aurisano
 
 ## Quick Links:
@@ -22,11 +22,12 @@
 - #### 8. [Summary of Hours and Justification](#hours)
 - #### 9. [Summary of Expenses](#expenses)
 - #### 10. [Appendix](#appendix)
+- #### 11. [Credits](#credits)
 
 ### 1. Abstract: <a name="abstract"></a>
 > "Project Arizona" is a Unity game showcasing the skills we’ve learned from our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game that we developed to display our understandings of data structures, computer architecture, graphics, software testing/QA, and other technical disciplines.
 
-### "Project Arizona" Description: <a name="description"></a>
+### 1.(cont.) "Project Arizona" Description: <a name="description"></a>
 > Tentatively titled, Project Arizona is an idea for a 3D action adventure game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and get a feel for what a more complete, broader scope game might offer through a typical demo or trial version of those games.
 
 ### 2. User Stories and Design Diagrams <a name="ui"></a>
@@ -41,21 +42,32 @@
 
 ### [Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
 
-### Slideshow
+### 5. Slideshow
 > #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
 > #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
 
-### [Self-Assessment Essays](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
+### 6. Final Expo Poster
+> ##### Our final expo poster pdf would not fit on GitHub, but the full-size, high-def PDF was submitted on Canvas. It can be found [here](https://drive.google.com/file/d/1r0XumtdIQbPm8yNdU5a7aUzjilrL8ScD/view?usp=sharing) on Google Drive. It is presented here as a JPG:
 
-### [Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
+![Poster](PosterJPG.jpg)
+
+### 7. Assessments
+
+#### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
+#### 7.2. [Final Self-Assessments]()
+
+
 
 ### Budget
 - Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders.
 
-### Appendix
+### 10. Appendix
+
 - We've met once a week with our advisor most weeks during the first semester and met at least 30-60 minutes a week as a team to work on project assignments together on top of our individual work as well as plan for the project. Individually, we've began watching and completing Unity tutorials and learnings to prepare ourselves to develop better and get prepared to create the game for the second semester. 
 
-### Credits
+- #### [Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
+
+### 11. Credits
 - Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
 
 - Placeholder Sound Effects from Valve's Counter-Strike: Source and Half-Life 2 or other common Source engine game assets.
