@@ -33,7 +33,7 @@
 > Project Arizona started as an idea for a 3D action/adventure/survival game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic character controller functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and see what a more complete, broader scope game might offer through a typical demo or trial version of those games.
 
 ### 2. User Interface Specification <a name="ui"></a>
-- #### UI/App Flowchart (basic navigation of game and proc. gen. apps):
+- #### App Flow and UI Diagram (basic navigation of game and proc. gen. apps):
 ![UI](UIFlow.png)
 
 - #### Screenshots:
@@ -42,6 +42,7 @@
 
 > ##### Game Scenes
 ![Game2](screenshots/GameScreen2.png)
+![Game4](screenshots/GameScreen4.png)
 ![Game3](screenshots/GameScreen3.png)
 
 > ##### Procedural Generation Scene
