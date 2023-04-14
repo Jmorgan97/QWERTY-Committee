@@ -76,8 +76,8 @@
 
 ### 10. Appendix (outdated assignment submissions and other info): <a name="appendix"></a>
 - #### [User_Stories](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User_Stories.md "User_Stories.md")
-> #### [Initial Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
-> > #### [Description](/Design_Diagrams//Design_Diagrams.md)
+- #### [Initial Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
+- #### [Description](/Design_Diagrams//Design_Diagrams.md)
 
 - #### Initial Project Tasks and Timeline
 	- #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
