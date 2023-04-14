@@ -1,5 +1,7 @@
-# Team "QWERTY Committee" CS5002 Final Design Report for "Project Arizona":
+# Team "QWERTY Committee" CS5002 Final Design Report:
 #### Team Members: Aidan Sorensen, Jacob Morgan, Thomas Myers | Faculty Project Advisor: Jillian Aurisano
+
+![Logo](Logo.png)
 
 ## Quick Links:
 - #### [Latest Release](https://github.com/Jmorgan97/QWERTY-Committee/releases/latest)
