@@ -37,13 +37,6 @@
 > #### [Design Diagrams](/Design_Diagrams//Design_Diagram.png?raw=true "Design Diagrams")
 > > #### [Description](/Design_Diagrams//Design_Diagrams.md)
 
-   
-### Project Tasks and Timeline
-> #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
-> #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
-
-### [Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
-
 ### 5. Slideshow
 > #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
 > #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
@@ -58,14 +51,18 @@
 #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
 #### 7.2. [Final Self-Assessments]()
 
-
-
-### Budget
-- Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders.
-
 ### 10. Appendix
 
 - We've met once a week with our advisor most weeks during the first semester and met at least 30-60 minutes a week as a team to work on project assignments together on top of our individual work as well as plan for the project. Individually, we've began watching and completing Unity tutorials and learnings to prepare ourselves to develop better and get prepared to create the game for the second semester. 
+
+- ### Initial Project Tasks and Timeline
+> #### [Tasklist](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Tasklist.md "Tasklist.md")
+> #### [Milestones, Timeline, & Effort-Matrix](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Milestones_Timeline_%26_Effort-Matrix.md "Milestones_Timeline_&_Effort-Matrix.md")
+
+- ### [Initial Project Constraints](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/Project_Constraints.md "Project_Constraints.md")
+
+- ### Initial Budget:
+> #### "Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders."
 
 - #### [Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
 
