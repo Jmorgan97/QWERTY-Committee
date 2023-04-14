@@ -1,8 +1,7 @@
-# Team "QWERTY Committee" Project Statement:
-### Team Members: Aidan Sorensen, Jacob Morgan, Tom Myers
-### Faculty Project Advisor: Jillian Aurisano
+# Team "QWERTY Committee":
+###$ Team Members: Aidan Sorensen, Jacob Morgan, Thomas Myers | Faculty Project Advisor: Jillian Aurisano
 
-### Quick Links:
+## Quick Links:
 - #### [Latest Release](https://github.com/Jmorgan97/QWERTY-Committee/releases/latest)
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
 - #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
@@ -10,8 +9,22 @@
 	- ##### The game had individual files too big for a GitHub repo, so we've opted to store the unzipped build in Google Drive for downloading, about 280MB tops.
 - #### [The Procedural Generation portion of the project](https://github.com/Myers747/Project-Arizona-Procedural-Generation)
 
+## Table of Contents:
+- #### 1. Project Description
+- #### 2. User Interface Specification
+- #### 3. Test Plan and Results
+- #### 4. User Manual
+- #### 5. Spring Final Slideshow Presentation
+- #### 6. Final Expo Poster
+- #### 7. Assessments
+	- ##### 7.1. Initial Self-Assessments (fall)
+	- ##### 7.2. Final Self-Assessments (spring)
+- #### 8. Summary of Hours and Justification
+- #### 9. Summary of Expenses
+- #### 10. Appendix
+
 ### Abstract:
-> Project Arizona is a Unity game that showcases the skills we’ve learned throughout our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game we developed while displaying our understandings of data structures, PC architecture, graphics, software testing/QA, and other technical disciplines.
+> "Project Arizona" is a Unity game showcasing the skills we’ve learned from our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game that we developed to display our understandings of data structures, computer architecture, graphics, software testing/QA, and other technical disciplines.
 
 ### "Project Arizona":
 > Tentatively titled, Project Arizona is an idea for a 3D action adventure game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and get a feel for what a more complete, broader scope game might offer through a typical demo or trial version of those games.
