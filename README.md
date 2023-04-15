@@ -10,6 +10,7 @@
 - #### ["Project Arizona" Game Direct Download Link (Google Drive download)](https://drive.google.com/drive/folders/1saYWJ75qpd3Hc11MAecrOlUImRgxWKvo?usp=sharing)
 	> ##### The game had individual files too big for a GitHub repo, so we've opted to store the unzipped build in Google Drive for downloading, about 280MB tops.
 - #### [Repo for the Procedural Generation portion of the project](https://github.com/Myers747/Project-Arizona-Procedural-Generation)
+- #### [All Unity project script files](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Scripts)
 
 ## Table of Contents:
 - #### 1. [Project Abstract](#abstract) and [Description](#description)
