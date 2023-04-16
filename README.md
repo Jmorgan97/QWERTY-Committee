@@ -68,7 +68,7 @@
 
 ### 7. Assessments: <a name="assessments"></a>
 - #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
-- #### 7.2. [Final Self-Assessments]()
+- #### 7.2. [Final Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays/Final_Self-Assessment_Essays)
 
 ### 8. Summary of Hours and Justification: <a name="hours"></a>
 
