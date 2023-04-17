@@ -12,8 +12,6 @@
 - #### [Repo for the Procedural Generation portion of the project](https://github.com/Myers747/Project-Arizona-Procedural-Generation)
 - #### [All Unity project script files](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Scripts)
 
----
-
 ## Table of Contents:
 - #### 1. [Project Abstract](#abstract) and [Description](#description)
 - #### 2. [User Interface Specification](#ui)
@@ -29,15 +27,11 @@
 - #### 10. [Appendix](#appendix)
 - #### 11. [Credits](#credits)
 
----
-
 ### 1. Abstract: <a name="abstract"></a>
 > "Project Arizona" is a Unity game showcasing the skills we’ve learned from our time here at the University of Cincinnati as CS majors, engineers, and software designers. The limited demo sandbox includes core gameplay mechanics in the base game that we developed to display our understandings of data structures, computer architecture, graphics, software testing/QA, and other technical disciplines.
 
 ### 1.(cont.) "Project Arizona" Description: <a name="description"></a>
 > Project Arizona started as an idea for a 3D action/adventure/survival game set in a fictional post-apocalyptic American wasteland. The game is played through a third-person camera perspective. Our goal was to develop a limited, but complete demonstrational experience in which the player can get a feel for the setting of the game, familiarize themselves with the controls, and experience all of the major, basic character controller functions of the game, like exploration and looting, within a confined sandbox experience. We envisioned something similar to the opening cinematic and tutorial of a fully-fledged game, but with the ability to play around and see what a more complete, broader scope game might offer through a typical demo or trial version of those games.
-
----
 
 ### 2. User Interface Specification: <a name="ui"></a>
 - #### App Flow and UI Diagram (basic navigation of game and proc. gen. apps):
@@ -55,47 +49,31 @@
 > ##### Procedural Generation Scene
 ![Proc](screenshots/ProcGenScreen.jpg)
 
----
-
 ### 3. Test Plan and Results: <a name="test"></a>
 - #### [Initial Test Plan Document](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/TestPlan.pdf)
 > We ultimately did not follow our ideal, original test plan submission due to our project being in production up until the day of the expo, so testing was done actively, cyclicly throughout development by all team members. We were unable to get outsiders to test our game before the expo, but some expo guests who visited our booth did test the app and find bugs for us in playtesting and demoing the build.
-
----
 
 ### 4. User Guide and Game Manual: <a name="manual"></a>
 - #### [User Guide](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/User_Guide.md)
 - #### [Game Manual](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/User%20Docs/Game_Manual.md)
 
----
-
 ### 5. Spring Final Slideshow Presentation: <a name="slides"></a>
 - #### [Google Slides](https://docs.google.com/presentation/d/1gHlmadPL_s-FE6YGnVkt1e0DPgESmbefmdNsu120KyI/edit?usp=sharing)
 - #### [YouTube Video](https://www.youtube.com/watch?v=suR1-ARk1ks)
-
----
 
 ### 6. Final Expo Poster: <a name="poster"></a>
 > ##### Our final expo poster pdf would not fit on GitHub, but the full-size, high-def PDF was submitted on Canvas. It can be found [here](https://drive.google.com/file/d/1r0XumtdIQbPm8yNdU5a7aUzjilrL8ScD/view?usp=sharing) on Google Drive. It is presented here as a JPG:
 
 ![Poster](PosterJPG.jpg)
 
----
-
 ### 7. Assessments: <a name="assessments"></a>
 - #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
 - #### 7.2. [Final Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays/Final_Self-Assessment_Essays)
 
----
-
 ### 8. Summary of Hours and Justification: <a name="hours"></a>
-
----
 
 ### 9. Summary of Expenses: <a name="expenses"></a>
 > We spent $0 in developing this game as Unity is a free game development engine, we used freely available community or public assets, and we did not release our game for an official, published release for profit. The game was developed on our own personal computers with Unity, Visual Studio, Photoshop, and Audacity. For the expo, we did spend money on supplies for our booth, including $8 for hand sanitizer, $25 for a Logitech MK235 mouse and keyboard combo, and $10 on mousepads, for a total of roughly $47 after tax. We additionally brought our laptops, cables, power/adapters, peripherals, and monitors to best present our work at the expo.
-
----
 
 ### 10. Appendix (outdated assignment submissions and other info): <a name="appendix"></a>
 - #### [Individual game C# code scripts](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Scripts)
@@ -114,8 +92,6 @@
 > ##### "Our budget for this game was $0. We spared no expense in acquiring assets and used only freely available modeling and animation assets from Unity's own Asset Store, Mixamo (Adobe), Sketchfab, and other similar resources. We also used sound effects from Valve's Source engine games as placeholders."
 
 - #### [Initial Professional Biographies](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Professional_Biographies)
-
----
 
 ### 11. Credits
 - #### Bearcats statue model: "Binturongs (NHMW-Zoo-MAMM ST525)" (https://skfb.ly/o7JXW) by Natural History Museum Vienna is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
