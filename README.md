@@ -108,7 +108,7 @@
 
 - ##### Justification:
 > ##### Justification Paragraph goes here
----
+
 #### Jacob Morgan:
 - ##### Fall Semester:
 |Task|Description|Hours|Percent|
@@ -134,7 +134,7 @@
 - ##### Jacob's Justification:
 > ##### For the fall semester, our team met at least twice a week for an average of 2.5hrs a week over 10 weeks, as well as meeting with our advisor for an average of at least 30 minutes over 10 weeks. I spent roughly 10hrs in total preparing and setting up documents, updating our GitHub repo, and filling out assignment information for our team. Our advisor encouraged us to try and spend 15 minutes to an hour at least once a week trying to read, learn, or practice something related to our game, which I contributed about 10hrs to doing.
 > ##### For the spring semester, I tried to work on our project at least once a week. I found that on average I would sit down at my computer and get sucked into editing in Unity in 4hr chunks after class, sometimes less, but more often I'd spend much longer than that on weekends, dedicating half a day or so. At one point past the middle of the semester I had issues with my personal desktop requiring a clean Windows installation that slowed down my work progress. About a week after this change, a problem with Windows 11 caused me to lose all of project files and I had to restore my work from a backup, losing an entire week's worth of progress. A great chunk of the hours I spent on this project were after this time, especially in the final week before the expo, as I tried to recreate, rebuild, and improve upon my work while trying to catch up to our goals.
----
+
 #### Thomas Myers:
 - ##### Fall Semester:
 |Task|Description|Hours|Percent|
@@ -154,7 +154,7 @@
 
 - ##### Justification:
 > ##### Justification Paragraph
----
+
 #### Team Totals:
 |Team Member|Hours Committed|Percent Contributed|
 |-----------|---------------|-------------------|
@@ -164,7 +164,6 @@
 
 - ##### Team Justification:
 > ##### Team Justification Paragraph
----
 
 ---
 
