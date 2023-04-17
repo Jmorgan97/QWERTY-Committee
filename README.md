@@ -107,7 +107,6 @@
 |Main development|Main Unity Project Development|25 hrs|~30%|
 |Integration|Combining our 3 parts and developing alongside teammates|15 hrs | ~20%|
 |Week before Expo|Expo Week preparation and final development|20 hrs|25%|
-
 |**Total**||**80 hrs**|**100%**|
 
 - ##### Aidan's Justification
