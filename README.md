@@ -93,21 +93,26 @@
 - ##### Fall Semester:
 |Task|Description|Hours|Percent|
 |----|-----------|-----|-------|
-|Team Meetings|Meetings with team to discuss and decide on project specifics|x hrs|x%|
-|Advisor Meetings|Weekly meetings with faculty advisor|x hrs|x%|
-|Assignments|Working on Senior Design semester assignments|x hrs|x%|
-|Learning|Researching relevant material to prepare for project work in 2nd semester|x hrs|x%|
-|**Total**||**xx hrs**|**100%**|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|25 hrs|50%|
+|Advisor Meetings|Weekly meetings with faculty advisor|5 hrs|~5%|
+|Assignments|Working on Senior Design semester assignments|5 hrs|~5%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|20 hrs|~40%|
+|**Total**||**55 hrs**|**100%**|
 
 - ##### Spring Semester:
 |Task|Description|Hours|Percent|
 |----|-----------|-----|-------|
-|task1|asdf|x hrs|x%|
-|task2|asdf|x hrs|x%|
-|**Total**||**xx hrs**|**100%**|
+|Assignments|Senior Design II semester assignments|5 hrs|~5%|
+|Learning|Learning Unity via tutorials and smaller projects|15 hrs|~20%|
+|Main development|Main Unity Project Development|25 hrs|~30%|
+|Integration|Combining our 3 parts and developing alongside teammates|15 hrs | ~20%|
+|Week before Expo|Expo Week preparation and final development|20 hrs|25%|
 
-- ##### Justification:
-> ##### Justification Paragraph goes here
+|**Total**||**80 hrs**|**100%**|
+
+- ##### Aidan's Justification
+> ##### Fall Semester: Our team met weekly. We often collaborated for over an hour during our weekly meetings. We also met weekly with our advisor starting about halfway through the fall sem, and these lasted from 15mins - 1 hr. After our weekly meetings, I would do some research and learn Unity for usually an hour or so until I took a break.
+> ##### Spring Semester: At the beginning of the spring semester, we were working slowly and classes took most of our time. I also had some issues with my computer and had to completely reinstall my operating system(probably because I was triple booting Windows, linux, and a cracked MacOS lolol). Most of the Unity Development I did took place before the final week before the Expo, but due to our split progress, a LOT of time was spent combining our development into one Unity Project. This took up a lot of time mostly because we were using different input systems, which should've been avoided but it just never occurred to me that we might be setting things up with legacy/new systems. Something to remember for future projects. Regardless, the final push before the senior project revolved around us as a team sitting in Discord working for like 3 days straight fixing our build errors.  
 
 #### Jacob Morgan:
 - ##### Fall Semester:
