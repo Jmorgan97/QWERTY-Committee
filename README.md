@@ -162,9 +162,9 @@
 #### Team Totals:
 |Team Member|Hours Committed|Percent Contributed|
 |-----------|---------------|-------------------|
-|Aidan Sorensen|000 hrs|00%|
-|Jacob Morgan|000 hrs|00%|
-|Thomas Myers|000 hrs|00%|
+|Aidan Sorensen|135 hrs|xx%|
+|Jacob Morgan|140 hrs|xx%|
+|Thomas Myers|xxx hrs|xx%|
 
 - ##### Team Justification:
 > ##### Team Justification Paragraph
