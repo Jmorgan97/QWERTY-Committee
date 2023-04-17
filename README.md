@@ -59,7 +59,7 @@
 
 ### 3. Test Plan and Results: <a name="test"></a>
 - #### [Initial Test Plan Document](https://github.com/Jmorgan97/QWERTY-Committee/blob/main/TestPlan.pdf)
-> We ultimately did not follow our ideal, original test plan submission due to our project being in production up until the day of the expo, so testing was done actively, cyclicly throughout development by all team members. We were unable to get outsiders to test our game before the expo, but some expo guests who visited our booth did test the app and find bugs for us in playtesting and demoing the build.
+> We ultimately did not follow our ideal, original test plan submission due to our project being in production up until the day of the expo, so testing was done actively, cyclicly throughout development by all team members. Due to the nature of game development and the way we worked in Unity's editor, testing contiunously, cyclicly throughout development was the best methodology for testing every small change or implementation for our project. We were unable to get outsiders to test our game before the expo, but some expo guests who visited our booth did test the app and find bugs for us in playtesting and demoing the build.
 
 ---
 
@@ -89,6 +89,82 @@
 ---
 
 ### 8. Summary of Hours and Justification: <a name="hours"></a>
+#### Aidan Sorensen:
+- ##### Fall Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|x hrs|x%|
+|Advisor Meetings|Weekly meetings with faculty advisor|x hrs|x%|
+|Assignments|Working on Senior Design semester assignments|x hrs|x%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|x hrs|x%|
+|**Total**||**xx hrs**|**100%**|
+
+- ##### Spring Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|task1|asdf|x hrs|x%|
+|task2|asdf|x hrs|x%|
+|**Total**||**xx hrs**|**100%**|
+
+- ##### Justification:
+> ##### Justification Paragraph goes here
+---
+#### Jacob Morgan:
+- ##### Fall Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|25 hrs|50%|
+|Advisor Meetings|Weekly meetings with faculty advisor|5 hrs|10%|
+|Assignments|Working on Senior Design semester assignments|10 hrs|20%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|10 hrs|20%|
+|**Total**||**~50 hrs**|**100%**|
+
+- ##### Spring Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|Team Meetings|Check-in meetings with team to discuss progress and next steps|10 hrs|11%|
+|Assignments|Working on Senior Design semester assignments|10 hrs|11%|
+|Learning|Work following alongside Unity tutorials and GoogleFu/StackO troubleshooting|15 hrs|17%|
+|General Unity Editing|Writing scripts, testing, tweaking animations, troubleshooting, building world, implementing features and assets|25 hrs|28%|
+|Finding Assets|Scouring Unity Asset Store, Mixamo, Sketchfab, Google, etc. for visual assets and editing audio clips|5 hrs | 5%|
+|Expo Week Crunch|Long hours skipping classes together to catch up on project|10 hrs|11%|
+|Expo Eve Crunch|Staying up all day and night before Expo on Discord to finish project together|15 hrs|17%|
+|**Total**||**~90 hrs**|**100%**|
+
+- ##### Jacob's Justification:
+> ##### For the fall semester, our team met at least twice a week for an average of 2.5hrs a week over 10 weeks, as well as meeting with our advisor for an average of at least 30 minutes over 10 weeks. I spent roughly 10hrs in total preparing and setting up documents, updating our GitHub repo, and filling out assignment information for our team. Our advisor encouraged us to try and spend 15 minutes to an hour at least once a week trying to read, learn, or practice something related to our game, which I contributed about 10hrs to doing.
+> ##### For the spring semester, I tried to work on our project at least once a week. I found that on average I would sit down at my computer and get sucked into editing in Unity in 4hr chunks after class, sometimes less, but more often I'd spend much longer than that on weekends, dedicating half a day or so. At one point past the middle of the semester I had issues with my personal desktop requiring a clean Windows installation that slowed down my work progress. About a week after this change, a problem with Windows 11 caused me to lose all of project files and I had to restore my work from a backup, losing an entire week's worth of progress. A great chunk of the hours I spent on this project were after this time, especially in the final week before the expo, as I tried to recreate, rebuild, and improve upon my work while trying to catch up to our goals.
+---
+#### Thomas Myers:
+- ##### Fall Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|x hrs|x%|
+|Advisor Meetings|Weekly meetings with faculty advisor|x hrs|x%|
+|Assignments|Working on Senior Design semester assignments|x hrs|x%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|x hrs|x%|
+|**Total**||**xx hrs**|**100%**|
+
+- ##### Spring Semester:
+|Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
+|task1|x hrs|x%|
+|task2|x hrs|x%|
+|**Total**||**xx hrs**|**100%**|
+
+- ##### Justification:
+> ##### Justification Paragraph
+---
+#### Team Totals:
+|Team Member|Hours Committed|Percent Contributed|
+|-----------|---------------|-------------------|
+|Aidan Sorensen|000 hrs|00%|
+|Jacob Morgan|000 hrs|00%|
+|Thomas Myers|000 hrs|00%|
+
+- ##### Team Justification:
+> ##### Team Justification Paragraph
+---
 
 ---
 
