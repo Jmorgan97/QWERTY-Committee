@@ -143,19 +143,20 @@
 - ##### Fall Semester:
 |Task|Description|Hours|Percent|
 |----|-----------|-----|-------|
-|Team Meetings|Meetings with team to discuss and decide on project specifics|x hrs|x%|
-|Advisor Meetings|Weekly meetings with faculty advisor|x hrs|x%|
-|Assignments|Working on Senior Design semester assignments|x hrs|x%|
-|Learning|Researching relevant material to prepare for project work in 2nd semester|x hrs|x%|
-|**Total**||**xx hrs**|**100%**|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|~25 hrs|45%|
+|Advisor Meetings|Weekly meetings with faculty advisor|~5 hrs|10%|
+|Assignments|Working on Senior Design semester assignments|~10 hrs|18%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|~15 hrs|27%|
+|**Total**||**55 hrs**|**100%**|
 
 - ##### Spring Semester:
 |Task|Description|Hours|Percent|
-|----|-----------|-----|-------|
-|task1|x hrs|x%|
-|task2|x hrs|x%|
-|...|x hrs|x%|
-|**Total**||**xx hrs**|**100%**|
+|Team Meetings|Check-in meetings with team to discuss progress and future endeavours|~10 hrs|14%|
+|Assignments|Working on Senior Design assignments|~5 hrs|7%|
+|Learning|Continuation of fall semester's learning C++, how to create unity projects, and how to edit unity projects|~10 hrs|13%|
+|Creating Procedural Generation|Writing scripts, following guides, troubleshooting, and texture implementation|~25 hrs|33%|
+|Expo Week Crunch|Skipping class and staying up late to catch up on progress. This culminated in getting 2 hours of sleep before the expo.|~25 hrs|33%|
+|**Total**||**75 hrs**|**100%**|
 
 - ##### Justification:
 > ##### Tom's Justification Paragraph goes here
@@ -165,7 +166,7 @@
 |-----------|---------------|
 |Aidan Sorensen|135 hrs|
 |Jacob Morgan|140 hrs|
-|Thomas Myers|xxx hrs|
+|Thomas Myers|130 hrs|
 
 - ##### Team Justification:
 > ##### Our team overall met regularly, in a more structured fashion during the first semester, but still at least once a week in some capacity in the second semester. Due to higher course load struggles, schedule mismatches, and difficulty finding time to work on the project separately, we did struggle to work the way we wanted to. But, we are still rpoud of the product of our work and worked tirelessly to make a complete project. Much of our second semester involved non-stop working on our courseload and using all free time to work on the project where space could not be carved out specifically for it. We continued to meet on Discord and track our progress with regular updates to each other on our work with screenshots or comments, screensharing over voice chat, and sharing bulleted lists of tasks to do or expectations from each member.
