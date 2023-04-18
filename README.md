@@ -221,5 +221,6 @@
 	- ##### "War FX" by Jean Moreno
 	- ##### "Military target" by NikiYani
 - #### And various animations from Mixamo (Adobe)
+- #### Used Unity Learn guides and tutorials by YouTubers like CodeMonkey, TheKiwiCoder, Brackeys, BMo, Gunzz, and more
 - #### Sebastian Lague's youtube series on unity procedural generation (https://youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3)
 - #### Inspired by the great folks behind games like Fallout: New Vegas, Minecraft, Stardew Valley, The Last of Us, Valheim, Outer Wilds, Disco Elysium, and too many more to name.
