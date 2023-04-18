@@ -53,7 +53,7 @@
 ![Game3](screenshots/GameScreen3.png)
 
 > ##### Procedural Generation Scene
-![Proc](screenshots/ProcGenScreen.jpg)
+![Proc](screenshots/ProcGen.png)
 
 ---
 
