@@ -84,7 +84,7 @@
 
 ### 7. Assessments: <a name="assessments"></a>
 - #### 7.1. [Initial Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays)
-- #### 7.2. [Final Self-Assessments](https://github.com/Jmorgan97/QWERTY-Committee/tree/main/Self-Assessment_Essays/Final_Self-Assessment_Essays)
+- #### 7.2. Final Self-Assessments were submitted recently on Canvas and not included in this Git as the completed PDFs may have contained confidential team-assessment related information.
 
 ---
 
@@ -117,22 +117,22 @@
 - ##### Fall Semester:
 |Task|Description|Hours|Percent|
 |----|-----------|-----|-------|
-|Team Meetings|Meetings with team to discuss and decide on project specifics|25 hrs|50%|
-|Advisor Meetings|Weekly meetings with faculty advisor|5 hrs|10%|
-|Assignments|Working on Senior Design semester assignments|10 hrs|20%|
-|Learning|Researching relevant material to prepare for project work in 2nd semester|10 hrs|20%|
+|Team Meetings|Meetings with team to discuss and decide on project specifics|~25 hrs|50%|
+|Advisor Meetings|Weekly meetings with faculty advisor|~5 hrs|10%|
+|Assignments|Working on Senior Design semester assignments|~10 hrs|20%|
+|Learning|Researching relevant material to prepare for project work in 2nd semester|~10 hrs|20%|
 |**Total**||**~50 hrs**|**100%**|
 
 - ##### Spring Semester:
 |Task|Description|Hours|Percent|
 |----|-----------|-----|-------|
-|Team Meetings|Check-in meetings with team to discuss progress and next steps|10 hrs|11%|
-|Assignments|Working on Senior Design semester assignments|10 hrs|11%|
-|Learning|Work following alongside Unity tutorials and GoogleFu/StackO troubleshooting|15 hrs|17%|
-|General Unity Editing|Writing scripts, testing, tweaking animations, troubleshooting, building world, implementing features and assets|25 hrs|28%|
-|Finding Assets|Scouring Unity Asset Store, Mixamo, Sketchfab, Google, etc. for visual assets and editing audio clips|5 hrs | 5%|
-|Expo Week Crunch|Long hours skipping classes together to catch up on project|10 hrs|11%|
-|Expo Eve Crunch|Staying up all day and night before Expo on Discord to finish project together|15 hrs|17%|
+|Team Meetings|Check-in meetings with team to discuss progress and next steps|~10 hrs|~11%|
+|Assignments|Working on Senior Design semester assignments|~10 hrs|~11%|
+|Learning|Work following alongside Unity tutorials and GoogleFu/StackO troubleshooting|~15 hrs|~17%|
+|General Unity Editing|Writing scripts, testing, tweaking animations, troubleshooting, building world, implementing features and assets|~25 hrs|~28%|
+|Finding Assets|Scouring Unity Asset Store, Mixamo, Sketchfab, Google, etc. for visual assets and editing audio clips|~5 hrs|~5%|
+|Expo Week Crunch|Long hours skipping classes together to catch up on project|~10 hrs|~11%|
+|Expo Eve Crunch|Staying up all day and night before Expo on Discord to finish project together|~15 hrs|~17%|
 |**Total**||**~90 hrs**|**100%**|
 
 - ##### Jacob's Justification:
@@ -154,20 +154,21 @@
 |----|-----------|-----|-------|
 |task1|x hrs|x%|
 |task2|x hrs|x%|
+|...|x hrs|x%|
 |**Total**||**xx hrs**|**100%**|
 
 - ##### Justification:
-> ##### Justification Paragraph
+> ##### Tom's Justification Paragraph goes here
 
 #### Team Totals:
-|Team Member|Hours Committed|Percent Contributed|
-|-----------|---------------|-------------------|
-|Aidan Sorensen|135 hrs|xx%|
-|Jacob Morgan|140 hrs|xx%|
-|Thomas Myers|xxx hrs|xx%|
+|Team Member|Hours Committed|
+|-----------|---------------|
+|Aidan Sorensen|135 hrs|
+|Jacob Morgan|140 hrs|
+|Thomas Myers|xxx hrs|
 
 - ##### Team Justification:
-> ##### Team Justification Paragraph
+> ##### Our team overall met regularly, in a more structured fashion during the first semester, but still at least once a week in some capacity in the second semester. Due to higher course load struggles, schedule mismatches, and difficulty finding time to work on the project separately, we did struggle to work the way we wanted to. But, we are still rpoud of the product of our work and worked tirelessly to make a complete project. Much of our second semester involved non-stop working on our courseload and using all free time to work on the project where space could not be carved out specifically for it. We continued to meet on Discord and track our progress with regular updates to each other on our work with screenshots or comments, screensharing over voice chat, and sharing bulleted lists of tasks to do or expectations from each member.
 
 ---
 
