@@ -151,6 +151,7 @@
 
 - ##### Spring Semester:
 |Task|Description|Hours|Percent|
+|----|-----------|-----|-------|
 |Team Meetings|Check-in meetings with team to discuss progress and future endeavours|~10 hrs|14%|
 |Assignments|Working on Senior Design assignments|~5 hrs|7%|
 |Learning|Continuation of fall semester's learning C++, how to create unity projects, and how to edit unity projects|~10 hrs|13%|
@@ -159,7 +160,8 @@
 |**Total**||**75 hrs**|**100%**|
 
 - ##### Justification:
-> ##### Tom's Justification Paragraph goes here
+> ##### For the fall semester, we were having meetings twice a week to discuss how things were going on each of our ends, along with setting goals to meet before the next meeting. Our advisor made time for us to meet every week for up to an hour. These meetings were essential for keeping us on track. We would work together for each of the fall semester assignments that needed to be done. On our own, we each did research into how to build and edit unity projects. Our advisor challenged us to try to work just a little bit on the project every day, and that worked out wonderfully.
+> ##### For the spring semester, we continued to have check-in meetings to see our progress and set new goals. Assignments, like in the fall, were done together throughout the semester. During the early part of the semester, I tried to continue to work on learning c++ and unity a little bit every day, but it was much harder to maintain and I had to catch myself up multiple times after missing days. The Pocedural generation was my baby for this project. I spent so much time learning and coding out a solution from a guide, that I got seriously burned out. It wasn't until I made serious progress to the point where I could actually see land being generated, that I felt some relief and that this idea was worth it to pursue. I wanted to get to the point of having procedurally generated dungeons, but I learned pretty quick that I would sadly not reach that stretch goal. The final week before the expo was insanity. We were all hands on deck for almost every waking hour. I was mostly troubleshooting how to get my part of the project to work with rest of what we had built.
 
 #### Team Totals:
 |Team Member|Hours Committed|
